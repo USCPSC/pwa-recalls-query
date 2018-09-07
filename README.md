@@ -1,4 +1,6 @@
-# pwa-vuetify [![Build Status](https://travis-ci.org/USCPSC/pwa-recalls-query.svg?branch=master)](https://travis-ci.org/USCPSC/pwa-recalls-query)
+# pwa-vuetify [![Build Status](https://travis-ci.org/USCPSC/pwa-recalls-query.svg?branch=master)](https://travis-ci.org/USCPSC/pwa-recalls-query)  [![Known Vulnerabilities](https://snyk.io/test/github/USCPSC/pwa-recalls-query/badge.svg?targetFile=package.json)](https://snyk.io/test/github/USCPSC/pwa-recalls-query?targetFile=package.json)
+
+Copy
 
 > A Vue.js project
 
